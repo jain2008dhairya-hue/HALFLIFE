@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 3 | 12h | 3 |
+| Week 1 | Tier 3 | 13h | 3 |
 
 ## Contents
 
 1. [2026-10-06 – ![Screenshot 2026-10-07 065749](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TpT8NnW38JaDhBwUBCrP7bkA3yWDdqXd/b0cd2141870df4bff0c06440b292c1924302f8703d611a3bc46deee58a4e5378.png)](#2026-10-06-screenshot-2026-10-07-065749httpshalflifehackclub)
 2. [2026-10-07 – ![Screenshot_20261008_070147_Comet](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TpT8NnW38JaDhBwUBCrP7bkA3yWDdqXd/921e23e1d5f33fec7d2409eb55600063e7329077962c0c78e3f4d66a2fbdbadd.j](#2026-10-07-screenshot20261008070147comethttpshalflifehackclu)
-3. [2026-10-08 – As soon as I got free, I did my work and then thought, "Let's do PCB building today." As soon as I searched for PCB building for this e-ink display, which I'm making was never existing because there i](#2026-10-08-as-soon-as-i-got-free-i-did-my-work-and-then-thou)
+3. [2026-10-08 – ![Screenshot 2026-10-08 212736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TpT8NnW38JaDhBwUBCrP7bkA3yWDdqXd/61a2ec7a3a0c0d2ea1c5af98249f4b323908b8fdb99a935d7d8b27c12c152f98.png)](#2026-10-08-screenshot-2026-10-08-212736httpshalflifehackclub)
 
 ## Design
 
@@ -50,9 +50,11 @@ I searched everywhere, then found a few things on Amazon, but I thought it might
 
 ![Screenshot_20261008_070219_Amazon](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TpT8NnW38JaDhBwUBCrP7bkA3yWDdqXd/c6329469a603ef793f56880e378e7dcafc1b261a875e204169a617371d0da8d7.jpg)
 
-### 2026-10-08 – As soon as I got free, I did my work and then thought, "Let's do PCB building today." As soon as I searched for PCB building for this e-ink display, which I'm making was never existing because there i
+### 2026-10-08 – ![Screenshot 2026-10-08 212736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TpT8NnW38JaDhBwUBCrP7bkA3yWDdqXd/61a2ec7a3a0c0d2ea1c5af98249f4b323908b8fdb99a935d7d8b27c12c152f98.png)
 
-**6h**
+**7h**
+
+![Screenshot 2026-10-08 212736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/TpT8NnW38JaDhBwUBCrP7bkA3yWDdqXd/61a2ec7a3a0c0d2ea1c5af98249f4b323908b8fdb99a935d7d8b27c12c152f98.png)
 
 As soon as I got free, I did my work and then thought, "Let's do PCB building today." As soon as I searched for PCB building for this e-ink display, which I'm making was never existing because there is no PCB required for the screen display. Instead, I searched for a new idea for a long time and then got into a thing called a projector. I was wondering if I could make a PCB for a projector. That would be great. After putting some work in, I wanted to make something of my own, so I went to Claude and checked what I can do for a PCB design. It helped me get some parts. I haven't decided on the price yet. Then got everything I need to do for a PCB so that I don't mess up again. This time, hopefully I'll be doing a good job.
 
