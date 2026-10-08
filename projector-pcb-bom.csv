@@ -1,0 +1,29 @@
+Ref,Qty,Part,Value / notes,Status
+J1,1,USB-C receptacle (16-pin),Power input; both CC pins wired to CH224K,Pick part
+U1,1,CH224K,USB PD sink controller; ESSOP-10; JLCPCB C970725; set to 15 V (12 V fallback),Existence confirmed; config to verify
+D1,1,TVS diode,On VBUS; standoff about 16-18 V; check clamp voltage vs MIC3223 abs max VIN,To verify
+F1,1,PTC resettable fuse,Hold current 3 A or more at 15 V,Pick part
+C1,1,Bulk capacitor,100 uF 25 V or higher (polymer or electrolytic) on input,Pick part
+C2,2,Ceramic capacitor,10 uF 25 V or higher near MIC3223 VIN,Pick part
+U2,1,MIC3223,Boost LED driver; TSSOP-16 exposed pad; 4.5-20 V in; up to 37 V out; 3.5 A internal FET,Existence confirmed
+L1,1,Power inductor,Value from MIC3223 datasheet; saturation current 4 A or more,To verify
+D2,1,Schottky diode,40 V or more; 3 A or more; low forward voltage,To verify
+C3,2,Output capacitor,Ceramic 10 uF 50 V plus bulk 47 uF 50 V; sized from datasheet,To verify
+R1-R2,2,Current sense resistor,0.68 ohm 1% in parallel = about 0.34 ohm (200 mV / 0.6 A); check power rating,Calculated; verify
+R3-R4,2,OVP divider,Values from MIC3223 datasheet; threshold above LED max Vf and below 37 V,To verify
+R5-R6,2,EN divider,Keeps driver off until rail reaches 15 V; check EN threshold,To verify
+RC1,1+1,COMP network,Series R and C to ground; values from datasheet,To verify
+C4,1,Soft-start capacitor,Value from datasheet,To verify
+U3,1,5 V buck converter IC,1 A or more; input rating 20 V or more; copy a reference design,Pick part
+U4,1,Raspberry Pi Pico (RP2040),Control: PWM dimming; fan PWM; thermistor ADC; powered at 5 V,Pick part
+Q1,1,N-channel logic-level MOSFET,Low-side fan switch; gate pull-down resistor,Pick part
+D3,1,Flyback diode,Across fan connector,Pick part
+TH1,1,NTC thermistor 10 k,On heatsink via wires; 10 k divider resistor on board,Pick part
+J2,1,Screw terminal 2-pos 5.08 mm,LED+ and LED-,Pick part
+J3,1,2-pin header or JST,5 V fan,Pick part
+J4,1,2-pin header or JST,Thermistor,Pick part
+H1-H4,4,M3 mounting hole,Board outline about 60 x 45 mm,Layout
+-,1,20 W COB LED,About 30-34 V / 0.6 A; mounted on aluminum heatsink; not on the PCB,Pick part
+-,1,Aluminum heatsink,Sized for 20 W LED; thermal paste,Pick part
+-,1,5 V fan,40-50 mm; for heatsink cooling,Pick part
+-,1,USB-C PD charger and cable,45 W or more with 15 V profile; cable rated 3 A,Pick part
