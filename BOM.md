@@ -17,7 +17,7 @@
 | [lithium ion battery with type c modue and charger](https://amzn.in/d/06i8Fy5F) | to get connectivity even through type c cables | 1 | $3.00 | $3.00 | [Amazon](https://amzn.in/d/06i8Fy5F) |
 | [brass wires](https://amzn.in/d/0drDU9Nk) | for connectivity and asthetics | 1 | $18.71 | $18.71 | [Amazon](https://amzn.in/d/0drDU9Nk) |
 | **Parts subtotal** | — | — | — | **$95.86** | — |
-| **Tax & shipping** | — | — | — | **$11.00** | — |
-| **Total** | — | — | — | **$106.86** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$95.86** | — |
 
-**$6.86 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$4.14 left of the tier's funding.
