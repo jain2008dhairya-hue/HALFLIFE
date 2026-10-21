@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-11T21:42:36.501Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuv8tkgo0ezg01smi3goyswo). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> trying to make a PROJECTOR that is goooood
+> I have wanted a display for my table for a long time, and I thought of it. What should I do for the first week? At that time, it clicked to me that I should make a display for my table. This is what it is. I thought of making it a bit healthier for my eyes, so I went with an ink display. Also, I think the coding is done.Well, I'm ordering the whole kit so that I can get all the display things and everything that I need to convert the display. Then I would require a charging module so that I can charge it with my mobile charger also, brass wire for aesthetic purposes .
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
