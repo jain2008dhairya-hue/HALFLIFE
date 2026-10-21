@@ -1,1 +1,1 @@
-
+This was my project for Hack Club, and I would like it to be nice and clean. I'm not giving any instructions here because I don't think you would need those. You can just connect most of them by looking at everything. If anything more is required, I'll probably think of it in the future. Currently, I'm just 18. Well, this was my PCB design, and an included e-ink design display, which I saw from a YouTube video not too long ago 
